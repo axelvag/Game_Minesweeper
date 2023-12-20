@@ -1,3 +1,6 @@
+![image](image/Mine1.jpg)
+![image](image/Mine2.jpg)
+
 # GrAPiC 
 
 ## Starting
