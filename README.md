@@ -1,12 +1,23 @@
 # Game Minesweeper 
 
+## Idea
+
+The objective is to find mines that are randomly hidden by
+the computer in the boxes of the table.
+
+If the chosen square contains a mine, the game is lost.
+
+If the chosen box does not contain a mine then a number will appear
+indicating the number of mines that are in the 8 squares that touch
+directly to the selected box.
+
 ![image](image/Mine1.jpg)
 ![image](image/Mine2.jpg)
 
 ## Subject
 
 ```
-During the TD/TP, this involves playing a mine-sweeper game. In the TD, the
+This involves playing a mine-sweeper game. The
 type declarations and the requested subroutines must be written
 in C/C++ language.
 
