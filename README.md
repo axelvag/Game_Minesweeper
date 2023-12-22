@@ -89,6 +89,14 @@ until the end of the game.
 containing mines (won game) or when a mine is hit (game
 lost). Write the main program to play Minesweeper.
 ```
+
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Game_Mines
+```
+
 # GrAPiC 
 
 ## Starting
